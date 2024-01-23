@@ -1,3 +1,3 @@
 # LinkedlnApp
-UserName: kaan \n
+UserName: kaan   
 Password: qw123
